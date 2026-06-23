@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ezinne 👋
 
-<!--
-**ezinne-chukwueke/ezinne-chukwueke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I am a Data Analyst passionate about transforming raw data into meaningful insights that support informed decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Data Cleaning
+- Data Visualization
+
+## 📚 Currently Expanding My Skills
+
+- Advanced SQL
+- Business Intelligence
+
+## 📂 Projects
+
+This portfolio showcases my data analytics projects, including dashboards, data cleaning, SQL analyses, and business insights. Each project demonstrates my approach to solving real-world business problems using data.
+
+## 📫 Connect with Me
+
+- LinkedIn: ()
