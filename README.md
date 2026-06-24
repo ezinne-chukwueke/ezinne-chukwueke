@@ -9,7 +9,7 @@ I enjoy transforming raw data into meaningful insights that help solve business 
 
 ## 💼 About Me
 
-- 📊 Data Analyst with experience in Excel, SQL, and Power BI.
+- 📊 Data Analyst specializing in Excel, SQL, and Power BI.
 - 📈 Passionate about transforming complex datasets into actionable insights.
 - 📚 Committed to continuous learning and professional growth.
 - 🎯 Interested in business analytics, dashboard development, and data-driven decision-making.
